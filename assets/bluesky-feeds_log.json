@@ -1,0 +1,550 @@
+{
+    "backup_v1.0": {
+        "version": "v1.0",
+        "date": "07 Dec 2024, 03:12:45 PM",
+        "message": "Initial backup created after setting up project structure.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v1.0.zip",
+        "hashes": {
+            "index.html": "aba9029f79c170093a15287e5693fddbb58e7ce5",
+            "script.js": "df39002c74d4ff97cf8f2dd484b9627dd7cc7d28",
+            "styles.css": "fc7e189d28cf6f71c4e25c5b6ec7313abaaa57a5"
+        },
+        "project_hash": "e4b0a837b8f16a2b9d3bb4a2bdc8914bc32e4f21",
+        "changes": {
+            "structure_changed": true,
+            "added_files": [
+                "index.html",
+                "script.js",
+                "styles.css"
+            ],
+            "modified_files": [],
+            "deleted_files": []
+        }
+    },
+    "project_info_v1.0": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 3201456,
+        "num_files": 3,
+        "num_folders": 1,
+        "project_hash": "e4b0a837b8f16a2b9d3bb4a2bdc8914bc32e4f21",
+        "last_backup": "07 Dec 2024, 03:12:45 PM",
+        "last_version": "v1.0",
+        "backup_message": "Initial backup created after setting up project structure.",
+        "backup_file_name": "rss-feed-reader_backup_v1.0.zip",
+        "backup_file_size": 3168745,
+        "hashes": {
+            "index.html": "aba9029f79c170093a15287e5693fddbb58e7ce5",
+            "script.js": "df39002c74d4ff97cf8f2dd484b9627dd7cc7d28",
+            "styles.css": "fc7e189d28cf6f71c4e25c5b6ec7313abaaa57a5"
+        }
+    },
+    "backup_v1.1": {
+        "version": "v1.1",
+        "date": "07 Dec 2024, 05:24:12 PM",
+        "message": "Added functionality for feed refresh and minor UI updates.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v1.1.zip",
+        "hashes": {
+            "index.html": "dca9029f79c170093a15287e5693fddbb58e7ce5",
+            "script.js": "aa79002c74d4ff97cf8f2dd484b9627dd7cc7d29",
+            "styles.css": "ac7e189d28cf6f71c4e25c5b6ec7313abaaa57a9"
+        },
+        "project_hash": "f2c1b91cd8a07f67d5a60e02a8db9245ac5d23f7",
+        "changes": {
+            "structure_changed": false,
+            "added_files": [],
+            "modified_files": [
+                "index.html",
+                "styles.css"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v1.1": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 3230456,
+        "num_files": 3,
+        "num_folders": 1,
+        "project_hash": "f2c1b91cd8a07f67d5a60e02a8db9245ac5d23f7",
+        "last_backup": "07 Dec 2024, 05:24:12 PM",
+        "last_version": "v1.1",
+        "backup_message": "Added functionality for feed refresh and minor UI updates.",
+        "backup_file_name": "rss-feed-reader_backup_v1.1.zip",
+        "backup_file_size": 3205023,
+        "hashes": {
+            "index.html": "dca9029f79c170093a15287e5693fddbb58e7ce5",
+            "script.js": "aa79002c74d4ff97cf8f2dd484b9627dd7cc7d29",
+            "styles.css": "ac7e189d28cf6f71c4e25c5b6ec7313abaaa57a9"
+        }
+    },
+    "backup_v1.2": {
+        "version": "v1.2",
+        "date": "08 Dec 2024, 10:08:56 AM",
+        "message": "Improved responsiveness and fixed alignment issues.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v1.2.zip",
+        "hashes": {
+            "index.html": "3fa6923c9e25a69e327a5ed4a237e80b7f453ac1",
+            "script.js": "8bc940fb24b914fc5c4e92fae30f7077291ec4f5",
+            "styles.css": "effe5b48780d1a6507c2d155545e2a5d3f64fa9c"
+        },
+        "project_hash": "f9e0e395a7835f9b170c3895f820f3a743b7161b",
+        "changes": {
+            "structure_changed": false,
+            "added_files": [],
+            "modified_files": [
+                "index.html",
+                "styles.css",
+                "script.js"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v1.2": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 3248723,
+        "num_files": 3,
+        "num_folders": 1,
+        "project_hash": "f9e0e395a7835f9b170c3895f820f3a743b7161b",
+        "last_backup": "08 Dec 2024, 10:08:56 AM",
+        "last_version": "v1.2",
+        "backup_message": "Improved responsiveness and fixed alignment issues.",
+        "backup_file_name": "rss-feed-reader_backup_v1.2.zip",
+        "backup_file_size": 3214023,
+        "hashes": {
+            "index.html": "3fa6923c9e25a69e327a5ed4a237e80b7f453ac1",
+            "script.js": "8bc940fb24b914fc5c4e92fae30f7077291ec4f5",
+            "styles.css": "effe5b48780d1a6507c2d155545e2a5d3f64fa9c"
+        }
+    },
+    "backup_v2.0": {
+        "version": "v2.0",
+        "date": "09 Dec 2024, 10:25:50 AM",
+        "message": "Major UI overhaul and improved navigation system.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v2.0.zip",
+        "hashes": {
+            "feeds.json": "cecf0df69f6c737b17849b15ddca319e65f494fc",
+            "index.html": "dca20ef84e897e504dd15c802c1c42a5ebd385e6",
+            "manifest.json": "2e4bc3de98b5a31894c75963756b6325ec43e34f",
+            "modal.js": "cd7e47b32f902344c191d546e84b7f32fa63a1b2",
+            "script.js": "82b64a89df2439fe57a9e0e92a732ea66574952d",
+            "service-worker.js": "b37e6b3f3c4f7fa6b17d8df8e4d865b2b89140cf",
+            "assets\\styles.css": "5c8e7896cf63f3f419be57ac48537b329cdbd13e",
+            "assets\\new-logo.svg": "d50b51ea319f2c88787d3e32aa96f59a4e1c569b",
+            "assets\\dark-theme.css": "3a5dc8e7193f2c1e1e5b7c4120a0e59a91de82d9"
+        },
+        "project_hash": "2ec405b7fc4a5eb8a9f36a4b8e1b5c2c2f9d3b6d",
+        "changes": {
+            "structure_changed": true,
+            "added_files": [
+                "assets\\dark-theme.css"
+            ],
+            "modified_files": [
+                "index.html",
+                "assets\\styles.css"
+            ],
+            "deleted_files": [
+                "assets\\bg.png"
+            ]
+        }
+    },
+    "project_info_v2.0": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 9557890,
+        "num_files": 9,
+        "num_folders": 2,
+        "project_hash": "2ec405b7fc4a5eb8a9f36a4b8e1b5c2c2f9d3b6d",
+        "last_backup": "09 Dec 2024, 10:25:50 AM",
+        "last_version": "v2.0",
+        "backup_message": "Major UI overhaul and improved navigation system.",
+        "backup_file_name": "rss-feed-reader_backup_v2.0.zip",
+        "backup_file_size": 9501230,
+        "hashes": {
+            "feeds.json": "cecf0df69f6c737b17849b15ddca319e65f494fc",
+            "index.html": "dca20ef84e897e504dd15c802c1c42a5ebd385e6",
+            "manifest.json": "2e4bc3de98b5a31894c75963756b6325ec43e34f",
+            "modal.js": "cd7e47b32f902344c191d546e84b7f32fa63a1b2",
+            "script.js": "82b64a89df2439fe57a9e0e92a732ea66574952d",
+            "service-worker.js": "b37e6b3f3c4f7fa6b17d8df8e4d865b2b89140cf",
+            "assets\\styles.css": "5c8e7896cf63f3f419be57ac48537b329cdbd13e",
+            "assets\\new-logo.svg": "d50b51ea319f2c88787d3e32aa96f59a4e1c569b",
+            "assets\\dark-theme.css": "3a5dc8e7193f2c1e1e5b7c4120a0e59a91de82d9"
+        }
+    },
+    "backup_v2.1": {
+        "version": "v2.1",
+        "date": "10 Dec 2024, 11:05:34 AM",
+        "message": "Added support for dark mode toggle and minor UI fixes.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v2.1.zip",
+        "hashes": {
+            "feeds.json": "cecf0df69f6c737b17849b15ddca319e65f494fc",
+            "index.html": "67a4c00f7a57d7c5c69e8469b4c3e6239c3a942b",
+            "manifest.json": "2e4bc3de98b5a31894c75963756b6325ec43e34f",
+            "script.js": "e16a29c7f1d9b8e93b5e412fa796f3b475c6e8a1",
+            "assets\\dark-theme.css": "3a5dc8e7193f2c1e1e5b7c4120a0e59a91de82d9"
+        },
+        "project_hash": "27a96c4b9e5b4f317d89b9f1c3c2b529c7f846e7",
+        "changes": {
+            "structure_changed": false,
+            "added_files": [],
+            "modified_files": [
+                "index.html",
+                "script.js"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v2.1": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 9564789,
+        "num_files": 9,
+        "num_folders": 2,
+        "project_hash": "27a96c4b9e5b4f317d89b9f1c3c2b529c7f846e7",
+        "last_backup": "10 Dec 2024, 11:05:34 AM",
+        "last_version": "v2.1",
+        "backup_message": "Added support for dark mode toggle and minor UI fixes.",
+        "backup_file_name": "rss-feed-reader_backup_v2.1.zip",
+        "backup_file_size": 9512041,
+        "hashes": {
+            "feeds.json": "cecf0df69f6c737b17849b15ddca319e65f494fc",
+            "index.html": "67a4c00f7a57d7c5c69e8469b4c3e6239c3a942b",
+            "manifest.json": "2e4bc3de98b5a31894c75963756b6325ec43e34f",
+            "script.js": "e16a29c7f1d9b8e93b5e412fa796f3b475c6e8a1",
+            "assets\\dark-theme.css": "3a5dc8e7193f2c1e1e5b7c4120a0e59a91de82d9"
+        }
+    },
+    "backup_v3.0": {
+        "version": "v3.0",
+        "date": "12 Dec 2024, 08:40:55 AM",
+        "message": "Redesigned header and improved mobile responsiveness.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v3.0.zip",
+        "hashes": {
+            "index.html": "a1b9029f79c170093a15287e5693fddbb58e7ce5",
+            "styles.css": "d27634a234ff5985d3a87f6543b28ec7be3d7d1c",
+            "scroll.js": "20a2d382b34ff9e6ba967dcb2069a1a854d980a4",
+            "header.js": "c8a2a3426f9a58bb55d7a2d4fecd8a1f445b6206",
+            "mobile.js": "9f35f2cf65456d7f3bb70dce5dcd6df04bcd54f8"
+        },
+        "project_hash": "fa84bda72f3ab6b809d7b5fc9b6349b4f53bf453",
+        "changes": {
+            "structure_changed": true,
+            "added_files": [
+                "header.js",
+                "mobile.js"
+            ],
+            "modified_files": [
+                "index.html",
+                "styles.css"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v3.0": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 10392448,
+        "num_files": 14,
+        "num_folders": 3,
+        "project_hash": "fa84bda72f3ab6b809d7b5fc9b6349b4f53bf453",
+        "last_backup": "12 Dec 2024, 08:40:55 AM",
+        "last_version": "v3.0",
+        "backup_message": "Redesigned header and improved mobile responsiveness.",
+        "backup_file_name": "rss-feed-reader_backup_v3.0.zip",
+        "backup_file_size": 10455332,
+        "hashes": {
+            "index.html": "a1b9029f79c170093a15287e5693fddbb58e7ce5",
+            "styles.css": "d27634a234ff5985d3a87f6543b28ec7be3d7d1c",
+            "scroll.js": "20a2d382b34ff9e6ba967dcb2069a1a854d980a4",
+            "header.js": "c8a2a3426f9a58bb55d7a2d4fecd8a1f445b6206",
+            "mobile.js": "9f35f2cf65456d7f3bb70dce5dcd6df04bcd54f8"
+        }
+    },
+    "backup_v4.0": {
+        "version": "v4.0",
+        "date": "15 Dec 2024, 03:18:45 PM",
+        "message": "Updated the navigation bar and fixed minor bugs.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v4.0.zip",
+        "hashes": {
+            "index.html": "56bb73e823f381f80d407a0efdfb3ca82b39ddee",
+            "styles.css": "f56b23223d8ffed2f41e0897e7f7f5cae53dca7a",
+            "scroll.js": "542eff2226b12239a671ed6784e4fb9fc846bd70",
+            "navbar.js": "f8c5c07a18a344c78481e9a73c8397e9a6fa6ed5",
+            "scripts.js": "7ca430a6d8ab953a4cfed4b0408ec9b09c3fc0b8"
+        },
+        "project_hash": "abbf3a935c02fd1a24694b69d2295a3d5b6d8317",
+        "changes": {
+            "structure_changed": true,
+            "added_files": [
+                "navbar.js"
+            ],
+            "modified_files": [
+                "index.html",
+                "styles.css",
+                "scroll.js"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v4.0": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 11332482,
+        "num_files": 16,
+        "num_folders": 3,
+        "project_hash": "abbf3a935c02fd1a24694b69d2295a3d5b6d8317",
+        "last_backup": "15 Dec 2024, 03:18:45 PM",
+        "last_version": "v4.0",
+        "backup_message": "Updated the navigation bar and fixed minor bugs.",
+        "backup_file_name": "rss-feed-reader_backup_v4.0.zip",
+        "backup_file_size": 11301029,
+        "hashes": {
+            "index.html": "56bb73e823f381f80d407a0efdfb3ca82b39ddee",
+            "styles.css": "f56b23223d8ffed2f41e0897e7f7f5cae53dca7a",
+            "scroll.js": "542eff2226b12239a671ed6784e4fb9fc846bd70",
+            "navbar.js": "f8c5c07a18a344c78481e9a73c8397e9a6fa6ed5",
+            "scripts.js": "7ca430a6d8ab953a4cfed4b0408ec9b09c3fc0b8"
+        }
+    },
+    "backup_v4.1": {
+        "version": "v4.1",
+        "date": "16 Dec 2024, 06:42:19 PM",
+        "message": "Fixed navigation links and updated footer styles.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v4.1.zip",
+        "hashes": {
+            "index.html": "76f532469b26822db779d5b5976018c0f65fd927",
+            "styles.css": "f76a4ba87574d27ea8da314fd7b4b3c97491bb93",
+            "footer.js": "dd2e1e8a8ec942dbd0f1e3c0f45f93e75ec9c13a"
+        },
+        "project_hash": "dbf173a6f73f8c04bd08eeea1b7d3b2f3d070f9e",
+        "changes": {
+            "structure_changed": true,
+            "added_files": [
+                "footer.js"
+            ],
+            "modified_files": [
+                "index.html",
+                "styles.css"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v4.1": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 11504938,
+        "num_files": 18,
+        "num_folders": 3,
+        "project_hash": "dbf173a6f73f8c04bd08eeea1b7d3b2f3d070f9e",
+        "last_backup": "16 Dec 2024, 06:42:19 PM",
+        "last_version": "v4.1",
+        "backup_message": "Fixed navigation links and updated footer styles.",
+        "backup_file_name": "rss-feed-reader_backup_v4.1.zip",
+        "backup_file_size": 11489642,
+        "hashes": {
+            "index.html": "76f532469b26822db779d5b5976018c0f65fd927",
+            "styles.css": "f76a4ba87574d27ea8da314fd7b4b3c97491bb93",
+            "footer.js": "dd2e1e8a8ec942dbd0f1e3c0f45f93e75ec9c13a"
+        }
+    },
+    "backup_v4.2": {
+        "version": "v4.2",
+        "date": "17 Dec 2024, 09:23:30 AM",
+        "message": "Fixed footer alignment issue and updated images.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v4.2.zip",
+        "hashes": {
+            "index.html": "4f9023ff71c7299a2ad4c4bcf1f616bb654ef408",
+            "styles.css": "fbb57a982f06cbad1c93a6aeb35a58bb64e9a648",
+            "footer.js": "e2417a3bc9a7d51d5dbb85e5e3c67fd4f6d12542",
+            "logo.png": "edb2b7d96320bfa0b8009a30b6fdc98734e0ac60"
+        },
+        "project_hash": "957cdc923e6b4d1d9ac998332ec9d3cfac02b698",
+        "changes": {
+            "structure_changed": true,
+            "added_files": [
+                "logo.png"
+            ],
+            "modified_files": [
+                "index.html",
+                "styles.css",
+                "footer.js"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v4.2": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 11754720,
+        "num_files": 19,
+        "num_folders": 3,
+        "project_hash": "957cdc923e6b4d1d9ac998332ec9d3cfac02b698",
+        "last_backup": "17 Dec 2024, 09:23:30 AM",
+        "last_version": "v4.2",
+        "backup_message": "Fixed footer alignment issue and updated images.",
+        "backup_file_name": "rss-feed-reader_backup_v4.2.zip",
+        "backup_file_size": 11723548,
+        "hashes": {
+            "index.html": "4f9023ff71c7299a2ad4c4bcf1f616bb654ef408",
+            "styles.css": "fbb57a982f06cbad1c93a6aeb35a58bb64e9a648",
+            "footer.js": "e2417a3bc9a7d51d5dbb85e5e3c67fd4f6d12542",
+            "logo.png": "edb2b7d96320bfa0b8009a30b6fdc98734e0ac60"
+        }
+    },
+    "backup_v5.0": {
+        "version": "v5.0",
+        "date": "20 Dec 2024, 10:12:05 AM",
+        "message": "Redesigned the entire footer layout and improved content loading speed.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v5.0.zip",
+        "hashes": {
+            "index.html": "87b6e82b03b47387a9394d405a6f905775a6d01d",
+            "styles.css": "ad18d1e548b0c1773d0a28b116d52f6f8bb26839",
+            "footer.js": "fa682a6f75c4ef961ff139b62b3bb0f36f3876c4",
+            "loading.js": "f5d763c12316d03d6fa62a8fe4a0e7d385295f5e"
+        },
+        "project_hash": "6ed1dbbda34d378c218d5f508d3401b22c3d074d",
+        "changes": {
+            "structure_changed": true,
+            "added_files": [
+                "loading.js"
+            ],
+            "modified_files": [
+                "index.html",
+                "styles.css",
+                "footer.js"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v5.0": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 12026549,
+        "num_files": 20,
+        "num_folders": 3,
+        "project_hash": "6ed1dbbda34d378c218d5f508d3401b22c3d074d",
+        "last_backup": "20 Dec 2024, 10:12:05 AM",
+        "last_version": "v5.0",
+        "backup_message": "Redesigned the entire footer layout and improved content loading speed.",
+        "backup_file_name": "rss-feed-reader_backup_v5.0.zip",
+        "backup_file_size": 11983093,
+        "hashes": {
+            "index.html": "87b6e82b03b47387a9394d405a6f905775a6d01d",
+            "styles.css": "ad18d1e548b0c1773d0a28b116d52f6f8bb26839",
+            "footer.js": "fa682a6f75c4ef961ff139b62b3bb0f36f3876c4",
+            "loading.js": "f5d763c12316d03d6fa62a8fe4a0e7d385295f5e"
+        }
+    },
+    "backup_v5.1": {
+        "version": "v5.1",
+        "date": "21 Dec 2024, 01:45:12 PM",
+        "message": "Fixed footer text color and optimized loading.js.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v5.1.zip",
+        "hashes": {
+            "index.html": "37be2881f1aeb5fcd16316d6bbd36dfe4b634b1c",
+            "styles.css": "a0d52df1c93b45c4e1d8507c4998bb8e8d3783ac",
+            "footer.js": "5fd7a1a01e4100bcd98d7d9132165c7f1a2ac9c1",
+            "loading.js": "f798f303625e82b7679d24479e2b2e91823773b0"
+        },
+        "project_hash": "779b3b12f83205e7bb3c621ae0c6ecce68053e8b",
+        "changes": {
+            "structure_changed": false,
+            "added_files": [],
+            "modified_files": [
+                "index.html",
+                "styles.css",
+                "footer.js",
+                "loading.js"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v5.1": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 12139745,
+        "num_files": 20,
+        "num_folders": 3,
+        "project_hash": "779b3b12f83205e7bb3c621ae0c6ecce68053e8b",
+        "last_backup": "21 Dec 2024, 01:45:12 PM",
+        "last_version": "v5.1",
+        "backup_message": "Fixed footer text color and optimized loading.js.",
+        "backup_file_name": "rss-feed-reader_backup_v5.1.zip",
+        "backup_file_size": 12116876,
+        "hashes": {
+            "index.html": "37be2881f1aeb5fcd16316d6bbd36dfe4b634b1c",
+            "styles.css": "a0d52df1c93b45c4e1d8507c4998bb8e8d3783ac",
+            "footer.js": "5fd7a1a01e4100bcd98d7d9132165c7f1a2ac9c1",
+            "loading.js": "f798f303625e82b7679d24479e2b2e91823773b0"
+        }
+    },
+    "backup_v5.2": {
+        "version": "v5.2",
+        "date": "22 Dec 2024, 03:05:44 PM",
+        "message": "Refined loading indicator and minor content tweaks.",
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "backup_file": "rss-feed-reader_backup_v5.2.zip",
+        "hashes": {
+            "index.html": "f2718e528f2fd03e01a54a5f9ca746639345a85c",
+            "styles.css": "0b05b055d58730bbf57e19fe2b67eaf22b0280db",
+            "footer.js": "4e26f5c62c8289c8b3859b57600cd3bbcf4f2e88",
+            "loading.js": "7cfe78a53118e4b72a091ae4a10a7b6f60de2648"
+        },
+        "project_hash": "b9c561e17d5d046e2fd72df28e4cdbad229f6236",
+        "changes": {
+            "structure_changed": false,
+            "added_files": [],
+            "modified_files": [
+                "index.html",
+                "styles.css",
+                "footer.js",
+                "loading.js"
+            ],
+            "deleted_files": []
+        }
+    },
+    "project_info_v5.2": {
+        "project_folder": "E:\\dev\\staging\\rss-feed-reader",
+        "backup_folder": "E:\\dev\\staging\\backups",
+        "total_size": 12238976,
+        "num_files": 20,
+        "num_folders": 3,
+        "project_hash": "b9c561e17d5d046e2fd72df28e4cdbad229f6236",
+        "last_backup": "22 Dec 2024, 03:05:44 PM",
+        "last_version": "v5.2",
+        "backup_message": "Refined loading indicator and minor content tweaks.",
+        "backup_file_name": "rss-feed-reader_backup_v5.2.zip",
+        "backup_file_size": 12209894,
+        "hashes": {
+            "index.html": "f2718e528f2fd03e01a54a5f9ca746639345a85c",
+            "styles.css": "0b05b055d58730bbf57e19fe2b67eaf22b0280db",
+            "footer.js": "4e26f5c62c8289c8b3859b57600cd3bbcf4f2e88",
+            "loading.js": "7cfe78a53118e4b72a091ae4a10a7b6f60de2648"
+        }
+    }
+}

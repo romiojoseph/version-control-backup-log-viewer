@@ -1,0 +1,24 @@
+{
+    "name": "Backup Log Viewer",
+    "short_name": "Backup Logs",
+    "description": "View and analyze backup logs created by the version control backup Python script",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#111113",
+    "theme_color": "#111113",
+    "icons": [
+        {
+            "src": "assets/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "orientation": "landscape",
+    "categories": [
+        "utilities",
+        "productivity"
+    ],
+    "prefer_related_applications": false
+}
